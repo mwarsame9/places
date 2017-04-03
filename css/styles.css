@@ -1,0 +1,16 @@
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+#output, #show-output {
+  display: none;
+}
+
+.bold {
+  font-weight: bold;
+}
